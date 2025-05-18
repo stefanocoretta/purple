@@ -1,0 +1,27 @@
+---
+title: "Purple: a revealjs theme"
+format:
+  purple-revealjs: default
+author: Stefano Coretta
+date: last-modified
+# Font selection is made in custom.scss
+googlefonts: ["Poetsen One", "Ubuntu Mono", "Lato"]
+---
+
+## A simple purple theme
+
+To use the theme, simply do:
+
+```yaml
+format: purple-revealjs
+```
+
+## Use Google Fonts
+
+You can use Google Fonts. Just list them as an array with the `googlefonts` key:
+
+```yaml
+googlefonts: ["Poetsen One", "Ubuntu Mono", "Lato"]
+```
+
+You can customise the fonts in the `custom.scss` file.
