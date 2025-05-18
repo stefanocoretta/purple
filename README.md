@@ -26,4 +26,4 @@ googlefonts: ["Lato", "Ubuntu Mono"]
 
 ## Example
 
-Here is the source code for a minimal sample document: [template.qmd](template.qmd). You can see the rendered presentation here: [template.html](template.html).
+Here is the source code for a minimal sample document: [template.qmd](template.qmd). You can see the rendered presentation here: [template.html](https://stefanocoretta.github.io/purple/template.html#/title-slide).
