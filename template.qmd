@@ -1,7 +1,7 @@
 ---
 title: "Purple: a revealjs theme"
 format:
-  purple-revealjs:
+  purple-light-revealjs:
     theme: [default, custom.scss]
 author: Stefano Coretta
 date: last-modified
@@ -14,7 +14,7 @@ googlefonts: ["Poetsen One", "Ubuntu Mono", "Lato"]
 To use the theme, simply do:
 
 ```yaml
-format: purple-revealjs
+format: purple-light-revealjs
 ```
 
 ## Use Google Fonts
