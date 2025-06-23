@@ -1,7 +1,8 @@
 ---
 title: "Purple: a revealjs theme"
 format:
-  purple-revealjs: default
+  purple-revealjs:
+    theme: [default, custom.scss]
 author: Stefano Coretta
 date: last-modified
 # Font selection is made in custom.scss

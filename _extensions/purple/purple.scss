@@ -3,10 +3,10 @@
 // Look up all the SASS variables here: https://quarto.org/docs/presentations/revealjs/themes.html#sass-variables
 
 // Colours
-$purple: #4E387E;
-$purple-light: #B89BEB;
-$purple-white: #FFEEFF;
-$green: #66A82D;
+$purple: #4E387E !default;
+$purple-light: #B89BEB !default;
+$purple-white: #FFEEFF !default;
+$green: #66A82D !default;
 
 $body-bg: $purple;
 $body-color: $purple-white;
@@ -16,13 +16,13 @@ $selection-bg: $green;
 $presentation-heading-color: $purple-light;
 
 // Fonts
-$font-family-sans-serif: "Lato";
-$font-family-monospace: "Ubuntu Mono";
-$presentation-font-size-root: 30px;
+$font-family-sans-serif: "Lato" !default;
+$font-family-monospace: "Ubuntu Mono" !default;
+$presentation-font-size-root: 30px !default;
 
 // Headings
-$presentation-heading-font: "Poetsen One";
-$presentation-h2-font-size: 2em;
+$presentation-heading-font: "Poetsen One" !default;
+$presentation-h2-font-size: 2em !default;
 
 // Layout
 $presentation-block-margin: 40px;
