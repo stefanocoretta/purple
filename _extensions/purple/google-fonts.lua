@@ -14,7 +14,7 @@ function Meta(meta)
     end
 
     local font_url = "https://fonts.googleapis.com/css2?" .. table.concat(font_list, "&") .. "&display=swap"
-    quarto.log.output(font_url)
+    -- quarto.log.output(font_url)
 
     local meta_header_includes = meta["header-includes"]
 
